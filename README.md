@@ -3,9 +3,8 @@
 
 <br>
 <br>
-<br>
 
-<h2 align="center">CHECK THESE OUT</h2>
+<h2 align="center">REPOSITORYS</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioS271&theme=tokyonight&repo=271pack)](https://github.com/MarioS271/271pack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioS271&theme=tokyonight&repo=coords_copy_mod)](https://github.com/MarioS271/coords_copy_mod)
@@ -14,7 +13,7 @@
 <br>
 <br>
 
-<h2 align="center">HOW I CODE</h2>
+<h2 align="center">WHAT I USE</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
     &nbsp;
@@ -27,6 +26,5 @@
 </p>
 
 <br>
-<br>
 
-<h2 align="center">CODING LANGUAGES</h2>
+<h2 align="center">MY CODING LANGUAGES</h2>
