@@ -9,6 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioS271&theme=tokyonight&repo=271pack)](https://github.com/MarioS271/271pack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioS271&theme=tokyonight&repo=coords_copy_mod)](https://github.com/MarioS271/coords_copy_mod)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioS271&theme=tokyonight&repo=quick_commands_mod)](https://github.com/MarioS271/quick_commands_mod)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarioS271&theme=tokyonight&repo=cat_vision_mod)](https://github.com/MarioS271/cat_vision_mod)
 
 <br>
 <br>
