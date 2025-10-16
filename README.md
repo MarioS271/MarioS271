@@ -12,8 +12,6 @@
 </p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
-    &nbsp;
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg">
 </p>
 
 <br>
@@ -27,7 +25,7 @@
     <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white">
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
+    <img src="https://img.shields.io/badge/C++-0071C5?style=for-the-badge&logo=cplusplus&logoColor=white">
     &nbsp;
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
     &nbsp;
@@ -39,3 +37,4 @@
     &nbsp;
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg">
 </p>
+
