@@ -1,10 +1,3 @@
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarioS271&theme=tokyonight">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioS271&theme=tokyonight&layout=compact">
-
-<br>
-<br>
-
-<h2 align="center">WHAT I USE</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
     &nbsp;
@@ -35,7 +28,5 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Java-ed272c?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
-
-
 
 
