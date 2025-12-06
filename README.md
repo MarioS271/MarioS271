@@ -1,3 +1,6 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioS271&hide=issues)
+
+
 <p align="center">
     <img src="https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
     &nbsp;
@@ -28,5 +31,6 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Java-ed272c?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
+
 
 
