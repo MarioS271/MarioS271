@@ -22,11 +22,11 @@
     &nbsp;
     <img src="https://img.shields.io/badge/C++-0071D5?style=for-the-badge&logo=cplusplus&logoColor=white">
     &nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-f0dc55?style=for-the-badge&logo=javascript&logoColor=black">
-    &nbsp;
+    <img src="https://img.shields.io/badge/Java-ed272c?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3d74a1?style=for-the-badge&logo=python&logoColor=white">
     &nbsp;
-    <img src="https://img.shields.io/badge/Java-ed272c?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-f0dc55?style=for-the-badge&logo=javascript&logoColor=black">
+    &nbsp;
 </p>
 
 
