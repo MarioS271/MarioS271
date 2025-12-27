@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     &nbsp;
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-    &nbsp;
-    <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/C-0071D5?style=for-the-badge&logo=c&logoColor=white">
@@ -25,7 +23,5 @@
     <img src="https://img.shields.io/badge/Java-ed272c?style=for-the-badge&logo=openjdk&logoColor=white">
     &nbsp;
     <img src="https://img.shields.io/badge/Python-3d74a1?style=for-the-badge&logo=python&logoColor=white">
-    &nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-f0dc55?style=for-the-badge&logo=javascript&logoColor=black">
     &nbsp;
 </p>
