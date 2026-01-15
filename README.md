@@ -24,4 +24,9 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Python-3d74a1?style=for-the-badge&logo=python&logoColor=white">
     &nbsp;
+    <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+    &nbsp;
+    <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css&logoColor=white">
+    &nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
