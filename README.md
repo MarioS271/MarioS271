@@ -4,13 +4,13 @@
     <img src="https://img.shields.io/badge/NVIDIA-RTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
-    &nbsp;
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_clion.svg">
     &nbsp;
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_webstorm.svg">
     &nbsp;
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg">
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg">
 </p>
 
 <br>
@@ -36,5 +36,6 @@
     &nbsp;
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
+
 
 
